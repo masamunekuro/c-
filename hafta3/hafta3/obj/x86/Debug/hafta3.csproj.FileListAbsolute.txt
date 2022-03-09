@@ -1,0 +1,8 @@
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\bin\Debug\hafta3.exe
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\bin\Debug\hafta3.pdb
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.Form1.resources
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.Properties.Resources.resources
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.csproj.GenerateResource.Cache
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.exe
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.pdb
+c:\users\lab-c\documents\visual studio 2010\Projects\hafta3\hafta3\obj\x86\Debug\hafta3.Form2.resources
